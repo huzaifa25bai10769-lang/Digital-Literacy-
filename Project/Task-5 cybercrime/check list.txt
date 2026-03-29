@@ -1,0 +1,19 @@
+﻿Financial & UPI Safety
+* 1. Remember the Golden Rule of UPI: You only need to enter your UPI PIN when you are sending money or checking your balance. If someone buying your old textbooks on OLX or Facebook Marketplace tells you to scan a QR code or enter your PIN to receive payment, it is a scam. Cancel the transaction immediately.
+* 2. Beware of "Accidental Transfer" Scams: If you receive unexpected money on PhonePe, GPay, or Paytm, and a stranger calls asking you to refund it to a different number because of an "emergency," do not do it. Tell them to contact their bank to reverse the transaction. This is a common money-laundering or triangulation scam.
+Social Media & Communication
+* 3. Lock Down WhatsApp with 2FA: WhatsApp hijacking is rampant. Go to Settings > Account > Two-Step Verification and enable it right now. This prevents scammers from taking over your account and asking your classmates or parents for money.
+* 4. Dodge the "Sextortion" Video Calls: Never accept unsolicited WhatsApp or Instagram video calls from unknown numbers. Scammers often play explicit videos on their end, screenshot your face next to it, and blackmail you. If you accidentally answer, cover your camera immediately and block the number.
+* 5. Scrub Your Social Media Footprint: Review your Instagram, Snapchat, and Facebook privacy settings. Ensure your profiles are private and remove followers you don't actually know. Avoid posting real-time location updates (like tagging the specific cafe you are currently sitting in) to prevent stalking.
+Academics & Careers
+* 6. Reject "Pay-to-Work" Internships: If a recruiter on Telegram or WhatsApp offers you a lucrative part-time job or internship (like liking YouTube videos or typing captchas) but asks for a "registration fee," "onboarding fee," or "laptop security deposit," it is 100% a scam. Legitimate companies pay you, not the other way around.
+* 7. Skip the Shady Telegram Downloads: It is tempting to download cracked software or pirated PDFs of expensive textbooks from random Telegram channels or sketchy websites. These files are frequently laced with malware or ransomware that can lock you out of your laptop right before finals. Stick to open-source alternatives or official university library portals.
+Everyday Browsing
+* 8. Don't Bank on Campus Wi-Fi: Public networks at the college library, hostels, or local cafes are often unsecured. Never log into your net banking or make online transactions while connected to these networks. Always switch to your mobile data (4G/5G) for anything involving money or sensitive passwords.
+________________
+
+
+🚨 What to Do If You Get Scammed
+If you or a friend fall victim to a cyber fraud, acting quickly is your best defense against losing money or data permanently. Do not let embarrassment stop you from reporting it.
+* Call the Helpline: Dial 1930 immediately. This is the National Cyber Crime Helpline. If you report financial fraud quickly (within the first few hours), they have a higher chance of freezing the scammer's accounts and retrieving your funds.
+* File a Report Online: Visit the official National Cyber Crime Reporting Portal at [suspicious link removed]. You can file a detailed complaint here, and they also have an option to report anonymously for certain crimes like cyberbullying or non-consensual imagery.
